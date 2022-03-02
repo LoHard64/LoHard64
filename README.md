@@ -14,6 +14,7 @@
 - 💪 I’m currently creating discord bots, some apps, and more small projects.
 - 🌱 I’m currently learning Javascript, CSS, C# (for Unity), and Dart(for app development with flutter).
 - 👯 I’m looking to collaborate on app development project and with programmers in fiverr.
+- 🏢 I'm currently make a dev company called BSNV Dev
 - 🤔 I’m looking for help with other people that can help my problem.
 
 ## My Interest
