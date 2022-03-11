@@ -1,4 +1,4 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/XN8uQ5u.png" height="175px"/></a>
 
 <h3 align="center">Hello Everyone, I'm <a href="https://youtube.com/LoHard">LoHard64</a></h3>
 
@@ -22,7 +22,7 @@
 
 ## My Interest
 
-![JS](https://img.icons8.com/color/48/000000/javascript--v1.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![NodeJS](https://img.icons8.com/small/48/6cc24a/nodejs.png) ![ReactJS](https://img.icons8.com/color/48/00d8ff/react-native.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![CPP](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![CSharp](https://i.imgur.com/wWAAl5M.png)
+![JS](https://img.icons8.com/color/48/000000/javascript--v1.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![NodeJS](https://img.icons8.com/small/48/6cc24a/nodejs.png) ![ReactJS](https://img.icons8.com/color/48/00d8ff/react-native.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![CPP](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![CSharp](https://i.imgur.com/wWAAl5M.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 
 ## My Community
 <p>LoHardly SMP (Minecraft Survival Server)</p>
