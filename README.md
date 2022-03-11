@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCaF03zjWlvLkPen086GQV4g"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube" title="Youtube"></a>
     <a href="https://instagram.com/lohard64"><img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
-  <a href="https://discord.io/LoHard64"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.io/LoHard64"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 
   
 
