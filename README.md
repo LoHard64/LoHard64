@@ -1,8 +1,11 @@
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+
 <h3 align="center">Hello Everyone, I'm <a href="https://youtube.com/LoHard">LoHard64</a></h3>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCaF03zjWlvLkPen086GQV4g"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube" title="Youtube"></a>
     <a href="https://instagram.com/lohard64"><img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
+  a href="https://discord.io/LoHard64"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
   
 
