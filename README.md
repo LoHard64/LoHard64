@@ -4,15 +4,18 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCaF03zjWlvLkPen086GQV4g"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube" title="Youtube"></a>
-    <a href="https://instagram.com/lohard64"><img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
-  <a href="https://discord.io/LoHard64"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/lohard64"><img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"></a>
+  <a href="https://discordapp.com/users/699475936805912607/"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 
   
 
 </p>
 
 <h1 align="center">Hello Everyone, Welcome to My GitHub!!</h1>
-<p>My name is AryaSucc, currently learning some programming languange like Javascript, C++, Python. These is useful to me for creating my project like some basic website, develop the discord bot, and creating some app. According to my skill like Chemical Analyst, Programming is useful to improve the logic skills, and always focus on solving a problem.</p>
+
+## My Profile
+
+<p>Hello Everyone!! Let me introduce myself: My name is AryaSucc, currently learning some programming languange like Javascript, C++, Python. These is useful to me for creating my project like some basic website, develop the discord bot, and creating some app. According to my skill like Chemical Analyst, Programming is useful to improve the logic skills, and always focus on solving a problem.</p>
 
 - 💪 I’m currently creating discord bots, some apps, and more small projects.
 - 🌱 I’m currently learning Javascript, CSS, C# (for Unity), and Dart(for app development with flutter).
