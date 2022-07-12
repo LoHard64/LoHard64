@@ -30,7 +30,7 @@
 ## My Community
 <p>LoHardly SMP (Minecraft Survival Server)</p>
 
-![DC1](https://discord.com/api/guilds/968338987339087903/widget.json)
+![DC1](https://discord.com/api/guilds/968338987339087903/widget.png?style=banner2)
 
 ## My Stats
 <a href="https://github.com/LoHard64">
